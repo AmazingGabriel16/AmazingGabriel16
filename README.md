@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Never gonna give you up, never gonna let you down, never gonna run around and desert you!](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Never gonna give you up, never gonna let you down, never gonna run around and desert you!](https://variety.show/wp-content/uploads/2020/05/OG2-Rolling-On-Through-The-Ages-Rick-Astley-His-80s-Sound-Lives-Forever.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<!-- Code source: https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages -->
 
 <!--
 **AmazingGabriel16/AmazingGabriel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
