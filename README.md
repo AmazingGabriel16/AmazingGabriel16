@@ -43,6 +43,7 @@ Fun (too many because I am bored) facts:
 - I like drawing, writing and gaming.
 - I don't have a good sleep schedule, so basically available 24/7 unless I crash due to the NotEnoughSleepToMuchUniWork exception.
 
-1.18 changes:
+1.19 changes:
++ Added Python
 - Removed Herobrine
 - Athena was here.
