@@ -45,5 +45,6 @@ Fun (too many because I am bored) facts:
 
 1.18 changes:
 - Removed Herobrine
-
+![image](https://user-images.githubusercontent.com/23047921/172505802-3b31e49e-2bee-425a-9161-19024a41cb6b.png)
 - Athena was here.
+![Athena chill - Twitch Cover](https://user-images.githubusercontent.com/23047921/172505842-9bb8fac3-2203-4fa7-9cfc-3e442b5aa021.png)
