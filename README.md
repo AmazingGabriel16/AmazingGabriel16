@@ -23,8 +23,6 @@ Hi there,
 
 My name is Gab and I'm just another otaku on the internet.
 
-During the semesters, I'll be working on university assignments, but other than that, I'll be working (or try working on) the unofficial NAI webview APK to try to help out the commmunity there, since web browsers are ugly. In addition to that, I'll be working on some personal projects, it won't make the activity page on my GitHub profile green to the web like the other devs out there, but that's okay :)
-
 I'm a university graduate with a Bachelor's in Computer Science to try and make a less deviant Connor... until of course I decide it's time to make Detroit Become Human XD
 Due to me not being big brain enough and me being unable to get into certain subjects like Android development and image recognition, you're gonna be seeing a lot of butchered half-baked what in the world code as I try learn and write new code language and concepts, as well as try to smooth things out, one bug at a time, hopefully faster than Hi-Rez can produce them. However, it won't be spaghetti code and will have a good base, layout and a lot of planning... hopefully... if I am not forced to fill though.
 
